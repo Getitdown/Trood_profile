@@ -1,3 +1,4 @@
+
 ## Profile Editor Application
 
 ## Autor: Yekaterina Kiel
@@ -40,7 +41,9 @@ CSS Modules: For styling components in a modular way.
 localStorage: For data persistence across sessions.
 
 
-========
+=======
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
