@@ -1,3 +1,45 @@
+Profile Editor Application
+
+Autor: Yekaterina Kiel
+
+Overview
+This project features a React-based form component that allows users to input, edit, and save profile information. The form includes validation, real-time data preview, and integration with localStorage to persist data. It also includes features like uploading an avatar image and resetting the form fields.
+
+Features
+1. User Profile Form
+Input fields for user details:
+- Name
+- Last Name
+- Job Title
+- Phone
+- Email
+- Address
+- Pitch
+  
+Validation for required fields and correct formatting using react-hook-form.
+
+2. Avatar Upload
+Users can upload an image as their avatar.
+The uploaded image is previewed in real-time on the page.
+
+4. Data Persistence
+Form data is saved to localStorage when the form is updated.
+The saved data is preloaded when the user revisits the page.
+
+6. Reset Functionality
+Reset button to clear both the form fields and localStorage data.
+
+8. Radio Buttons and Interests
+Additional components (Radio and Interests) for specific user inputs.
+
+Technologies Used
+React: For building the form UI and handling interactions.
+React Hook Form: For form management and validation.
+CSS Modules: For styling components in a modular way.
+localStorage: For data persistence across sessions.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
